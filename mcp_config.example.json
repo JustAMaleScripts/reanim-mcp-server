@@ -1,0 +1,14 @@
+{
+  "mcp": {
+    "servers": {
+      "reanim": {
+        "type": "local",
+        "command": [
+          "node",
+          "C:\\Users\\Admin\\Documents\\Default Project\\reanim-mcp-server\\dist\\index.js"
+        ],
+        "environment": {}
+      }
+    }
+  }
+}
