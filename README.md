@@ -129,4 +129,6 @@ Optional env vars: `REANIM_SCRIPT`, `REANIM_WORKSPACE`, `REANIM_SAVEDATA`,
 `bridge-patch*.luau` append a `_G.ReanimMCP` API to `reanim.luau`
 (live dance/moveset/rootmode/theme switching). Back up `reanim.luau` first;
 every block is `pcall`-guarded and safe to delete.
+Use `bridge-patch-all-in-one.luau` for fresh installs (v1.0.0 + v1.0.1 + v1.0.2
+in one append); the split files document each version's addition.
 

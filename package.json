@@ -18,7 +18,8 @@
     "mcp_config.example.json",
     "bridge-patch.luau",
     "bridge-patch-1.0.1.luau",
-    "bridge-patch-1.0.2.luau"
+    "bridge-patch-1.0.2.luau",
+    "bridge-patch-all-in-one.luau"
   ],
   "keywords": [
     "mcp",
